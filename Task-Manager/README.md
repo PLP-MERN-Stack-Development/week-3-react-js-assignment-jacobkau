@@ -62,8 +62,9 @@ Task-Manager/
 
 ## 🌐 Deployment
 
-You can deploy this app to Vercel, Netlify, or GitHub Pages.  
-Build for production with:
+This  project is already deployed in Vercel. Access it by clicking the link below
+
+[Link - Deployed Task Manager]([http://localhost:5173](https://week-3-react-js-assignment-jacobkau.vercel.app/))
 
 ```sh
 npm run build
