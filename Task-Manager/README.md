@@ -64,7 +64,7 @@ Task-Manager/
 
 This  project is already deployed in Vercel. Access it by clicking the link below
 
-[Link - Deployed Task Manager]([http://localhost:5173](https://week-3-react-js-assignment-jacobkau.vercel.app/))
+[Link - Deployed Task Manager](https://week-3-react-js-assignment-jacobkau.vercel.app/)
 
 ```sh
 npm run build
